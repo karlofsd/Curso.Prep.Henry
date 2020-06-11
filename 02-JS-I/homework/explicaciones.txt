@@ -1,0 +1,15 @@
+-------EXPLICACIONES-------
+
+* VARIABLES: Las variables son elementos que pueden tener un valor o dato asignado.
+
+* STRINGS: Los strings son cadenas de caractéres (textos), que tienen que ir dentro de comillas para que tomen esas propiedad.
+
+* FUNCIONES: son comandos que realizan una determinada accion
+    
+    - ARGUMENTOS: Son variables  asignadas a una funcion y que pueden ser utilizadas en el codigo de la funcion.
+    
+    - RETURN: devuelve el resultado de la accion de un codigo.
+
+* Declaraciones 'if': verifica el resultado de acuerdo a, si cumple la accion de manera en base a lo establecido.
+
+* Valores booleanos: son valores que determinan  o asignan, que algo es verdadero o falso.
