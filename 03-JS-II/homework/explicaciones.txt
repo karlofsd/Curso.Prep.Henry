@@ -1,0 +1,9 @@
+------EXPLICACIONES------
+
+* for: es un bucle que recorre determinados parametros hasta cumplir con la condicion asignada.
+
+* && 'y/and': si todos los valores son verdaderos entonces retornara verdadero, pero si alguno es falso, retornara falso.
+
+* || 'o/or': si todos los valores son verdaderos, retornara falso, porque solo uno de ello puede ser verdadero. 
+
+* ! 'no/not': niega un valor.
