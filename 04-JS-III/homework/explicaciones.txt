@@ -1,0 +1,3 @@
+------EXPLICACIONES------
+
+* ARRAY : es una lista o matríz que agrupa uno o más elementos.
